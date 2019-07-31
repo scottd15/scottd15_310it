@@ -26,13 +26,13 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 				<footer class="site-footer" id="colophon">
 
-					<!--<div class="site-info">-->
+					<div class="site-info">
 
 						<p class="footertext">
                             Scott's Vintage 2019, Powered by Wordpress &amp; Understrap.
                         </p>
 
-                <!--</div>--><!-- .site-info -->
+                     </div><!-- .site-info --
 
 				</footer><!-- #colophon -->
 
